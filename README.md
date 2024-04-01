@@ -1,1 +1,1 @@
-# Telegram-Bot-using-AI
+# Telegram-Bot-using-GenAI
